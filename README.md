@@ -1,29 +1,36 @@
 
 # About ISMPG
 
-Irvine Strategic Management & Portfolio Group (ISMPG) is a privately held family group, established to steward and grow the Irvine family’s collective business interests.
+**Irvine Strategic Management & Portfolio Group (ISMPG)** is a privately held family holding company.  
+We steward and grow the family’s collective business interests across **technology, media, and property**, guided by long-term thinking and responsible governance.  
 
-ISMPG provides long-term management and oversight across a diversified portfolio including:
+---
 
-- Technology & Software — development and ownership of innovative digital platforms, SaaS ventures, and intellectual property.
+## Purpose
 
-- Media & Creative Projects — supporting family-led media productions and creative enterprises.
+ISMPG provides the **strategic, financial, and operational backbone** for its portfolio companies.  
+Our role is to:  
 
-- Properties & Assets — management of residential, commercial, and strategic property holdings, both physical and digital.
+- Ensure stability and governance for current and future generations.  
+- Manage investments with a focus on **innovation, sustainability, and stewardship**.  
+- Enable subsidiary ventures to operate independently while benefiting from shared oversight.  
 
+---
 
-As a family office structure, ISMPG exists to:
+## Portfolio Highlight
 
-- Provide stability and governance for current and future generations.
+- **Merpian Limited** (founded 2019)
+  Modular Ecosystems for Research into Personal Intelligent Assistive Nodes, is a Research & Development company focused on **sovereign, offline-first AI systems**.  
+  - Flagship project: **Hqllr** — a local, verifiable, persona-adaptive knowledge engine.  
+  - Additional developments: **KBANN Suite** (Knowledge Based Artificial Neural Network).  
 
-- Manage investments with a focus on innovation, sustainability, and stewardship.
+---
 
-- Serve as the parent company to subsidiary ventures, enabling operational independence while maintaining family oversight.
+## Areas of Activity
 
-
-ISMPG is committed to protecting our assets through prudent management, strategic growth, and a long-term vision.
-
-
+- **Technology & Software** — sovereign AI, knowledge systems, federated architectures  
+- **Media & Publishing** — creative and digital assets  
+- **Properties & Investments** — sustainable, long-term holdings
 
 <!--
 **ISMPG/ISMPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,9 @@
-
 # About ISMPG
+
+[![Status: Company Profile](https://img.shields.io/badge/status-Company%20Profile-informational)]()
+[![Code: Not Applicable](https://img.shields.io/badge/code-Not%20Applicable-lightgrey)]()
+[![License: All Rights Reserved](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)]()
+
 
 **Irvine Strategic Management & Portfolio Group (ISMPG)** is a privately held family holding company.  
 We steward and grow the family’s collective business interests across **technology, media, and property**, guided by long-term thinking and responsible governance.  

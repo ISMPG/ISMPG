@@ -36,6 +36,25 @@ Our role is to:
 - **Media & Publishing** — creative and digital assets  
 - **Properties & Investments** — sustainable, long-term holdings
 
+
+---
+
+Copyright © 2019–2025 ISMPG Limited (Irvine Strategic Management & Portfolio Group).  
+All rights reserved.
+
+This repository may include website or documentation source code.  
+All code, content, and materials are provided for informational use only.  
+
+No part of this repository may be reproduced, distributed, or transmitted  
+in any form or by any means without prior written permission from ISMPG.  
+
+This repository is not open source and no license is granted for use,  
+modification, or redistribution.  
+
+<!--
+For enquiries, please contact: enquiries@ismpg.com
+
+
 <!--
 **ISMPG/ISMPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
